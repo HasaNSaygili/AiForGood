@@ -1,0 +1,30 @@
+# General Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Raw Data (Don't Upload)
+data/
+dataset_processed/
+
+# Compressed Files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Model Weights (Usually too large >100MB for GitHub)
+*.pth
+best_model.pth
+
+# Logs
+run_log.txt
+.vscode/
+.idea/
+
+# Note: dataset_processed/ klasörü bu listede YOK, yani yüklenecek.

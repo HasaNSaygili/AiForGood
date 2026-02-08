@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+scikit-learn
+tqdm
