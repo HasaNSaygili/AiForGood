@@ -10,6 +10,8 @@ env/
 # Raw Data (Don't Upload)
 data/
 dataset_processed/
+predictions/
+test_images/
 
 # Compressed Files
 *.zip
